@@ -54,7 +54,7 @@ Página web de presentación para una startup, desarrollada como práctica y con
 
 ```bash
 # 1. Clonar o entrar al proyecto
-cd trace-startup
+cd Startup
 
 # 2. Instalar dependencias
 npm install
